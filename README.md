@@ -13,6 +13,8 @@ Secure Shredder Pro solves this by:
 2. **Metadata Ghosting:** Wipes the file's "fingerprint" (timestamps and size) from the system.
 3. **Safety Blacklist:** Prevents accidental deletion of critical `C:\Windows` or `System32` files.
 
+<img width="967" height="430" alt="image" src="https://github.com/user-attachments/assets/7a0200e7-8a83-4759-95bb-bd6fa7372ca2" />
+
 ## ✨ Key Features
 * **Forensic Metadata Reset:** Automatically resets file creation/access/write dates to **1980-01-01** before destruction.
 * **Integrated UX:** No separate installer needed. Double-click the app to manage Right-Click menu integration.
